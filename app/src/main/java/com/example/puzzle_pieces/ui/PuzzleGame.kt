@@ -34,7 +34,6 @@ import com.example.puzzle_pieces.R
 import com.example.puzzle_pieces.databinding.ActivityPuzzleGameBinding
 import com.example.puzzle_pieces.model.GameState
 import com.example.puzzle_pieces.model.PuzzleBitmapSource
-import com.example.puzzle_pieces.onclick.OnPuzzleGameElement
 import com.example.puzzle_pieces.service.AppMusicService
 import com.example.puzzle_pieces.service.GameMusicService
 import com.example.puzzle_pieces.ui.PrepareGame

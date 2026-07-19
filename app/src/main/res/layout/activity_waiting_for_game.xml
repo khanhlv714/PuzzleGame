@@ -65,7 +65,7 @@
             android:layout_marginTop="1dp"
             android:padding="2dp"
             android:scaleType="centerInside"
-            android:src="@drawable/img"
+            android:src="@drawable/icon_switch"
             app:tint="#03A9F4"  />
         <ImageButton
             android:id="@+id/ibnHideElement"
@@ -126,7 +126,7 @@
             android:layout_height="match_parent"
             android:clipToOutline="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/background4"
+            android:src="@drawable/background_game"
             android:alpha="0.3"
             app:tint="#000000"
             app:layout_constraintBottom_toBottomOf="parent"

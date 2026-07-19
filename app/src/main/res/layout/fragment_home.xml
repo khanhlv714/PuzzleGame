@@ -48,7 +48,7 @@
                             android:clipToOutline="true"
                             android:background="@drawable/draw_home_image"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/img22"
+                            android:src="@drawable/home_picture"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />
 
@@ -102,7 +102,7 @@
                             android:background="@drawable/draw_home_image"
                             android:clipToOutline="true"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/anhdep3"
+                            android:src="@drawable/home2_picture"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />
 
