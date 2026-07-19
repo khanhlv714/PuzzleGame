@@ -27,7 +27,19 @@ This project was built to practice Android application development and object-or
 
 ## 📷 Screenshots
 
+* Home Screen
 <img width="360" height="640" alt="screenshot-2026-07-19_10 41 32 326" src="https://github.com/user-attachments/assets/60b83127-87c6-47b7-a285-46a44449a8b0" />
+
+* Image Catelory Screen
+ <img width="360" height="640" alt="screenshot-2026-07-19_10 44 15 011" src="https://github.com/user-attachments/assets/88b50c0e-15ce-4f73-9ab8-3b380def5328" />
+
+* Select Mode Screen
+* <img width="360" height="640" alt="screenshot-2026-07-19_10 44 25 85" src="https://github.com/user-attachments/assets/af9e9003-a832-4a41-adc2-9909c0b5a831" />
+
+
+
+
+
 
 
 
