@@ -27,7 +27,8 @@ This project was built to practice Android application development and object-or
 
 ## 📷 Screenshots
 
-<img width="720" height="1280" alt="screenshot-2026-07-19_10 48 14 176" src="https://github.com/user-attachments/assets/6f66b9e2-7ab7-4e53-b411-0b49e9cdf189" />
+<img width="360" height="640" alt="screenshot-2026-07-19_10 41 32 326" src="https://github.com/user-attachments/assets/60b83127-87c6-47b7-a285-46a44449a8b0" />
+
 
 
 
