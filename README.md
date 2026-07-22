@@ -51,6 +51,13 @@ This project was built to practice Android application development and object-or
 <img width="360" height="640" alt="screenshot-2026-07-19_10 48 14 176" src="https://github.com/user-attachments/assets/cbb67031-9f5c-4f6f-abb9-3b5fb4bcc6d5" />
 
 
+## 📷 Demo Game
+
+
+
+[demo_game.webm](https://github.com/user-attachments/assets/e140d7f8-79b4-47b0-86d6-d1c55aa11b46)
+
+
 
 
 
