@@ -1026,6 +1026,7 @@ class PuzzleGame : AppCompatActivity() {
     }
 
     override fun onDestroy(){
+        GameMusicService.currentSourceId = null;
         stopService(Intent(this,GameMusicService ::class.java))
         bitmapOriginalImg = null; //
         bitmapMap = null;

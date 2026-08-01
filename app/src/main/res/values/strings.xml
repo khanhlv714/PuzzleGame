@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wallpaper_Application</string>
+    <string name="app_name">Puzzle Game</string>
     <string name="search">Search</string>
     <string name="empty_result">No items</string>
     <string name="set_wallpaper">Set Wallpaper</string>
