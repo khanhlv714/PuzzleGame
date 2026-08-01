@@ -50,6 +50,15 @@ This project was built to practice Android application development and object-or
 * Puzzle Game Screen
 <img width="360" height="640" alt="screenshot-2026-07-19_10 48 14 176" src="https://github.com/user-attachments/assets/cbb67031-9f5c-4f6f-abb9-3b5fb4bcc6d5" />
 
+## 📷 Demo Video
+
+
+https://github.com/user-attachments/assets/b2bd3af5-cd77-40ed-a431-a55b2be331a7
+
+
+
+
+
 
 
 
