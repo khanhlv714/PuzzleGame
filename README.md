@@ -38,7 +38,7 @@ This project was built to practice Android application development and object-or
  
 
 * Select Mode Screen
-* <img width="360" height="640" alt="screenshot-2026-07-19_10 44 25 85" src="https://github.com/user-attachments/assets/af9e9003-a832-4a41-adc2-9909c0b5a831" />
+ <img width="360" height="640" alt="screenshot-2026-07-19_10 44 25 85" src="https://github.com/user-attachments/assets/af9e9003-a832-4a41-adc2-9909c0b5a831" />
 
 
 * Puzzle Game Screen
