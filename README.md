@@ -41,12 +41,6 @@ This project was built to practice Android application development and object-or
 * <img width="360" height="640" alt="screenshot-2026-07-19_10 44 25 85" src="https://github.com/user-attachments/assets/af9e9003-a832-4a41-adc2-9909c0b5a831" />
 
 
-
-* Game Preview Screen
-* <img width="360" height="640" alt="screenshot-2026-07-19_10 45 44 143" src="https://github.com/user-attachments/assets/7373d0c5-d3ff-4fab-88b7-5425cfbc02ed" />
-
-
-
 * Puzzle Game Screen
 <img width="360" height="640" alt="screenshot-2026-07-19_10 48 14 176" src="https://github.com/user-attachments/assets/cbb67031-9f5c-4f6f-abb9-3b5fb4bcc6d5" />
 
